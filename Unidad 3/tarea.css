@@ -1,0 +1,14 @@
+p{
+    color: black;
+    width: 450px;
+    border: 1px solid black;
+    background-color: aquamarine;
+    font-family: 'Lobster', cursive;
+}
+table{
+    color: black;
+    width: 650px;
+    border: 1px solid black;
+    background-color: rgb(236, 129, 222);
+    font-family: 'Lobster', cursive;
+} 
